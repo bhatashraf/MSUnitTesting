@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="TestProject.DivideTest.Test_Divide" /><Add Test="Calculator.Tests.ProgramTests.DivideTest2" /></Playlist>
